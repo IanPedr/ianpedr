@@ -1,4 +1,4 @@
-### Oi!! eu sou o Ian Pedro
+### Oi!! eu sou o Ian Pedro 🖐️
 
 
 - 🔭 Hoje eu trabalho com projetos de HTML e CSS
@@ -9,12 +9,13 @@
  	<a href="https://www.twitch.tv/luxies848" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:iamnascimento2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ian-pedro-6a0176253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 
 
 <div align="center">
   <a href="https://github.com/ianpedr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ianpedr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianpedr&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ianpedr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianpedr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ## Tecnologias que uso no meu dia
